@@ -7,3 +7,6 @@
 [submodule "Gamerlizard/vendor/GLFW"]
 	path = Gamerlizard/vendor/GLFW
 	url = https://github.com/thecherno/glfw
+[submodule "Gamerlizard/vendor/imgui"]
+	path = Gamerlizard/vendor/imgui
+	url = https://github.com/thecherno/imgui
